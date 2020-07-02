@@ -5,8 +5,8 @@ const authController = require('./controllers/auth');
 
 const app = express();
 
-// /auth/sign-in
-// /auth/sign-out
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
 
 app.use('/auth', authController);
 
