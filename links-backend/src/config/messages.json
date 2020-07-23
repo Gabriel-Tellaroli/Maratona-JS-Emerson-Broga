@@ -2,7 +2,7 @@
     "response.json_ok": "Requisição efetuada com sucesso.",
     "response.json_bad_request": "Requisição Invalida.",
     "response.json_unauthorized": "Não autorizado.",
-    "response.json_not_found": "Não autorizado.",
+    "response.json_not_found": "Não encontrado.",
     "response.json_server_error": "Erro no servidor.",
 
     "account.signup.email_exists": "Email já cadastrado.",
