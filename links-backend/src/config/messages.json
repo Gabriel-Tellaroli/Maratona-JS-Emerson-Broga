@@ -4,13 +4,17 @@
     "response.json_unauthorized": "Não autorizado.",
     "response.json_not_found": "Não autorizado.",
     "response.json_server_error": "Erro no servidor.",
+
     "account.signup.email_exists": "Email já cadastrado.",
     "account.signup.success": "Cadastro efetuado com sucesso.",
     "account.signup.password_confirmation.any.required": "Confirmação de senha é obrigatorio.",
     "account.signup.password.string.empty": "Senha é obrigatorio.",
     "account.signup.password.string.pattern.base": "Senha deve conter entre 3 a 30 caracteres e incluir letras e numeros.",
     "account.signup.email.string.empty": "Email é obrigatorio.",
-    "account.signup.email.string.email": "Email não é valido."
+    "account.signup.email.string.email": "Email não é valido.",
 
-
-}
+    "account.signin.invalid": "Credenciais invalidas.",
+    "account.signin.success": "Login efetuado com sucesso.",
+    "account.signin.password.string.empty": "Senha é obrigatorio.",
+    "account.signin.password.string.pattern.base": "Senha deve conter entre 3 a 30 caracteres e incluir letras e numeros."
+ }
